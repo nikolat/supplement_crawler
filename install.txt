@@ -1,0 +1,4 @@
+charset,UTF-8
+type,supplement
+name,クローラ＆ロダ用user.dll
+accept,クローラ
